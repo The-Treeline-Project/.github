@@ -28,7 +28,7 @@ Below here is a catalogue of our projects.
       width="42"
       align="absmiddle"
     >
-    Contact - Discord
+    Silva
   </a>
 </h3>
 
@@ -40,7 +40,7 @@ For obvious reasons the project itself is not open-source.s
 
 This is not affiliated to other existing solutions (like ProtoMines), all the code is custom-built.
 
-## Updates
+## Updates/Contact
 
 Below here are some ways to stay up-to-date about our projects or contact us.
 
@@ -52,9 +52,11 @@ Below here are some ways to stay up-to-date about our projects or contact us.
       width="42"
       align="absmiddle"
     >
-    Contact - Discord
+    Discord Server
   </a>
 </h3>
+
+Join our Discord server using [this link:](https://discord.gg/HPdaqPGwFT) https://discord.gg/HPdaqPGwFT or the hyperlinked title above.
 
 <h3>
   <a href="https://the-treeline-project.github.io">
@@ -64,9 +66,11 @@ Below here are some ways to stay up-to-date about our projects or contact us.
       width="42"
       align="absmiddle"
     >
-    Contact - Website [Still being built]
+    Website
   </a>
 </h3>
+
+A website is still being built. The hyperlinked title above will not work.
 
 ## Credits/Disclosures
 
