@@ -16,6 +16,38 @@ This `README.md` is a quck introduction to The Threeline Project.
 
 The Treeline Project is a project currently focussing on reverse engeneering and building tools for various apps. Feel free to check out some of our projects or learn more about us down below.
 
+## Updates/Contact
+
+Below here are some ways to stay up-to-date about our projects or contact us.
+
+<h3>
+  <a href="https://discord.gg/HPdaqPGwFT">
+    <img
+      src="https://github.com/The-Treeline-Project/.github/blob/main/repository/assets/discord.svg?raw=true"
+      alt="Discord - from SVGRepo.com"
+      width="42"
+      align="absmiddle"
+    >
+    Discord Server
+  </a>
+</h3>
+
+Join our Discord server using [this link:](https://discord.gg/HPdaqPGwFT) https://discord.gg/HPdaqPGwFT or the hyperlinked title above.
+
+<h3>
+  <a href="https://the-treeline-project.github.io">
+    <img
+      src="https://github.com/The-Treeline-Project/.github/blob/main/repository/assets/link.svg?raw=true"
+      alt="Link SVG - from Lucide.dev"
+      width="42"
+      align="absmiddle"
+    >
+    Website
+  </a>
+</h3>
+
+A website is still being built. The hyperlinked title above will not work.
+
 ## Projects
 
 Below here is a catalogue of our projects.
@@ -28,7 +60,7 @@ Below here is a catalogue of our projects.
       width="42"
       align="absmiddle"
     >
-    Contact - Discord
+    Silva
   </a>
 </h3>
 
@@ -39,34 +71,6 @@ It automatically dumps Protobuf files (using a custom-written dumper), dumps IL2
 For obvious reasons the project itself is not open-source.s
 
 This is not affiliated to other existing solutions (like ProtoMines), all the code is custom-built.
-
-## Updates
-
-Below here are some ways to stay up-to-date about our projects or contact us.
-
-<h3>
-  <a href="https://discord.gg/HPdaqPGwFT">
-    <img
-      src="https://github.com/The-Treeline-Project/.github/blob/main/repository/assets/discord.svg?raw=true"
-      alt="Discord - from SVGRepo.com"
-      width="42"
-      align="absmiddle"
-    >
-    Contact - Discord
-  </a>
-</h3>
-
-<h3>
-  <a href="https://the-treeline-project.github.io">
-    <img
-      src="https://github.com/The-Treeline-Project/.github/blob/main/repository/assets/link.svg?raw=true"
-      alt="Link SVG - from Lucide.dev"
-      width="42"
-      align="absmiddle"
-    >
-    Contact - Website [Still being built]
-  </a>
-</h3>
 
 ## Credits/Disclosures
 
