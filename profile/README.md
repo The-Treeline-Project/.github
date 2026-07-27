@@ -8,8 +8,6 @@
   The Treeline Project
 </h1>
 
----
-
 Hello!
 
 This `README.md` is a quck introduction to The Threeline Project.
