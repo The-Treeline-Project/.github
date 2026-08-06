@@ -19,7 +19,7 @@ The Treeline Project is a project currently focussing on reverse engeneering and
 Below here are some ways to stay up-to-date about our projects or contact us.
 
 <h3>
-  <a href="https://discord.gg/HPdaqPGwFT">
+  <a href="https://the-treeline-project.github.io/discord">
     <img
       src="https://github.com/The-Treeline-Project/.github/blob/main/repository/assets/discord.svg?raw=true"
       alt="Discord - from SVGRepo.com"
@@ -44,7 +44,7 @@ Join our Discord server using [this link:](https://discord.gg/HPdaqPGwFT) https:
   </a>
 </h3>
 
-A website is still being built. The hyperlinked title above will not work.
+You can find the website [on this link:](https://the-treeline-project.github.io/): https://the-treeline-project.github.io/ or using the hyperlinked title above.
 
 ## Projects
 
