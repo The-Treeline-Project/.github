@@ -30,7 +30,7 @@ Below here are some ways to stay up-to-date about our projects or contact us.
   </a>
 </h3>
 
-Join our Discord server using [this link:](https://discord.gg/HPdaqPGwFT) https://discord.gg/HPdaqPGwFT or the hyperlinked title above.
+Join our Discord server using [this link:](https://the-treeline-project.github.io/discord) https://the-treeline-project.github.io/discord or the hyperlinked title above.
 
 <h3>
   <a href="https://the-treeline-project.github.io">
